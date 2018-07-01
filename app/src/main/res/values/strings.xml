@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Writeley</string>
+    <string name="title_activity_journal">JournalActivity</string>
+    <string name="unknown_error">An unknown error has occurred</string>
+    <string name="title_activity_note">New note</string>
+    <string name="hint_journal_body_here">What of interesting happened you today…</string>
+    <string name="title_note">Title here…</string>
+    <string name="signout">SIGN OUT</string>
+
+    <string-array name="months_of_year">
+        <item>January</item>
+        <item>Febuary</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>

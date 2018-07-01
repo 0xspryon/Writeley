@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="partial_activity_journal_month_selector_width">140dp</dimen>
+</resources>
