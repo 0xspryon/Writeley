@@ -3,9 +3,15 @@ A journal application for ALC 3.0( Andela learning community) Android Developmen
 # Project Title
 
 ## Getting Started
+```
 install git and android studio
+```
+```
 git clone https://github.com/iPR0D1G1/Writeley.git <my project repo>
+```
+```
 open in android studio
+```
 
 ### Prerequisites
 
