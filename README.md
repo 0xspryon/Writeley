@@ -28,6 +28,8 @@ Git
 ## Authors
 
 * **Yonga Springfield** -*Initial work*
+* **John Carlyle** -*Initial work*
+* **Macougoum Junie** -*Initial work*
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
